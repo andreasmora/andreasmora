@@ -1,9 +1,5 @@
 ### Olá, eu sou o AndreasMora 👋
-
-- 🔭 Hoje Trabalho como Field Service...
-- 🌱 Estudando Java/Kotlin
-- 📫 Contate-me no e-mail: andrealvesmoraes75@gmail.com
-- 😄 Pronouns: Ele/Dele
+IOS DEVELOPER
 
  <div>
   <a href="https://github.com/andreasmora">
@@ -11,11 +7,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasmora&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="andreasmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="andreasmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
-  <img align="center" alt="andreasmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
- <img align="center" alt="andreasmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
- <img align="center" alt="andreasmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />
+ <img align="center" alt="andreasmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
+ <img align="center" alt="andreasmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
+ <img align="center" alt="andreasmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+ <img align="center" alt="andreasmora-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </div>
   
    ##
@@ -27,12 +22,7 @@
 
 These are some of the technologies and tools that I work with:
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-007396?style=flat-square&logo=kotlin)
-![Android](https://img.shields.io/badge/-Android-007396?style=flat-square&logo=android) 
+![Swift](https://img.shields.io/badge/-Swift-007396?style=flat-square&logo=swift)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-green?style=flat-square&logo=AndroidStudio&logoColor=white) 
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-blue?style=flat-square&logo=Xcode&logoColor=white) 
