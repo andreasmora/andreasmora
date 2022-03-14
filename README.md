@@ -1,13 +1,18 @@
 ### Olá, eu sou o AndreasMora 👋
-IOS DEVELOPER
+PYTHON DEVELOPER
 
  <div>
   <a href="https://github.com/andreasmora">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreasmora&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
- <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" />
- <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" />
+ <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
+ <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+ <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />
+ <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />
+ <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />
+ <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
  <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
  <img align="center" alt="andreasmora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </div>
@@ -21,7 +26,7 @@ IOS DEVELOPER
 
 These are some of the technologies and tools that I work with:
 
-![Swift](https://img.shields.io/badge/-Swift-007396?style=flat-square&logo=swift)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Xcode](https://img.shields.io/badge/-Xcode-blue?style=flat-square&logo=Xcode&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python)
+![Pycharm](https://img.shields.io/badge/-Pycharm-blue?style=flat-square&logo=Pycharm&logoColor=white) 
