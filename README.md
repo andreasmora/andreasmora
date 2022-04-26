@@ -32,5 +32,5 @@ These are some of the technologies and tools that I work with:
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python)
-![Pycharm](https://img.shields.io/badge/-Pycharm-blue?style=flat-square&logo=Pycharm&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Intellij](https://img.shields.io/badge/-Intellij-blue?style=flat-square&logo=Intellij&logoColor=white) 
