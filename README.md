@@ -1,4 +1,4 @@
-### Olá, eu sou o AndreasMora 👋
+### Olá, eu sou o AndreasMora 
 JAVA DEVELOPER
 
  <div>
