@@ -1,5 +1,5 @@
 ### Olá, eu sou o AndreasMora 
-JAVA DEVELOPER
+IT Developer JAVA
 
  <div>
  <div style="display: inline_block"><br>
