@@ -18,7 +18,12 @@ Olá, Meu nome é Andre Moraes, um apaixonado por Tecnologias!!!!
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=andreasmora&show_icons=true&theme=radical&layout=compact" />
 </div>
- 
+
+
+ #### Studying in this moment:
+
+![GCP](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
  &nbsp;
  &nbsp;
 
