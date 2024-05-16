@@ -13,8 +13,7 @@ Olá, Meu nome é Andre Moraes, um apaixonado por Tecnologias!!!!
   <img align="center" alt= height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   <img align="center" alt= height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt= height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />
-  <img align="center" alt= height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />
-          
+  <img align="center" alt= height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" />        
   <img align="center" alt= height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
                
               
