@@ -5,9 +5,6 @@ Olá, Meu nome é Andre Moraes, um apaixonado por Tecnologias!!!!
 </div>
 
 
-
-<div align="center" style="display: inline_block"><br>
-</div>
 <div>
   <img align="center" alt= height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt= height="70" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />
