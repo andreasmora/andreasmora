@@ -19,8 +19,8 @@ Olá, Meu nome é Andre Moraes, um apaixonado por Tecnologias!!!!
 
  #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/Pycharm_IDEA-000000.svg?style=for-the-badge&logo=pycharm-idea&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
  &nbsp;
  &nbsp;
  
